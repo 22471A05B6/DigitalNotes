@@ -26,7 +26,7 @@ const HomePage = () => {
             onClick={() => navigate("/signup")}
             className="button signup"
           >
-            Sign Up
+            Register
           </button>
         </div>
       </div>
